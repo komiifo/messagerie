@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+.vite/
+.next/      # si Next.js
+out/
+
+# Misc
+.env
+.env.*       # ex: .env.local
+coverage/
+.cache/
+*.log
