@@ -1,0 +1,20 @@
+# Build & binaries
+*.exe
+*.out
+*.test
+*.bin
+backend
+
+# Dependency vendoring (si utilisé)
+vendor/
+
+# IDE & system
+*.swp
+*.swo
+*.bak
+.DS_Store
+
+# Env
+.env
+.env.*
+logs/
